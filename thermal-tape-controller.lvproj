@@ -40,7 +40,8 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Host.vi" Type="VI" URL="../Host.vi"/>
-		<Item Name="init.vi" Type="VI" URL="../init.vi"/>
+		<Item Name="init_prev.vi" Type="VI" URL="../init_prev.vi"/>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

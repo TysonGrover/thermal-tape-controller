@@ -1,0 +1,13 @@
+{
+  "Relay_Port":"cDAQ1Mod1/port0/line1",
+  "TC_Port":"DAQMod1/ai0",
+  "PID_Gains":{
+    "P":1,
+    "I":0,
+    "D":0
+    },
+  "PID_prev":{
+    "e_prev":0,
+    "e_int":0
+    }
+}
