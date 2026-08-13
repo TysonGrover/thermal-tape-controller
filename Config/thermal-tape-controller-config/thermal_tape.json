@@ -1,8 +1,7 @@
 {
 
   "Tape_1":{
-    "Relay_Port":"cDAQ1Mod1/port0/line1",
-    "TC_Port":"DAQMod1/ai0",
+    "Index":0,
     "PID_gains":{
       "P":1,
       "I":0,
@@ -15,8 +14,7 @@
   }
 
   "Tape_2":{
-    "Relay_Port":"cDAQ1Mod1/port0/line2",
-    "TC_Port":"DAQMod1/ai1",
+    "Index":1,
     "PID_gains":{
       "P":1,
       "I":0,
@@ -29,8 +27,7 @@
   }
 
   "Tape_3":{
-    "Relay_Port":"cDAQ1Mod1/port0/line3",
-    "TC_Port":"DAQMod1/ai2",
+    "Index":2,
     "PID_gains":{
       "P":1,
       "I":0,
@@ -43,8 +40,7 @@
   }
 
   "Tape_4":{
-    "Relay_Port":"cDAQ1Mod1/port0/line4",
-    "TC_Port":"DAQMod1/ai3",
+    "Index":3,
     "PID_gains":{
       "P":1,
       "I":0,

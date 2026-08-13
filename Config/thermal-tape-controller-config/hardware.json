@@ -1,0 +1,6 @@
+{
+ 
+  "Relay_Port":"cDAQ1Mod1/port0/line1:4",
+  "TC_Port":"DAQMod1/ai0:3"
+
+}
