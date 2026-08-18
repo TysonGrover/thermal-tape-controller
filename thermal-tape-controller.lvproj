@@ -57,9 +57,10 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DF175E72-444A-4FDC-806F-0A0E4C921088}</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">thermal-tape-controller-app.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/thermal-tape-controller-app.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">thermal-tape-controller.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -75,6 +76,21 @@
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
+				<Property Name="Source[1].properties[0].type" Type="Str">Window has title bar</Property>
+				<Property Name="Source[1].properties[0].value" Type="Bool">true</Property>
+				<Property Name="Source[1].properties[1].type" Type="Str">Show menu bar</Property>
+				<Property Name="Source[1].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[2].type" Type="Str">Show vertical scroll bar</Property>
+				<Property Name="Source[1].properties[2].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[3].type" Type="Str">Show horizontal scroll bar</Property>
+				<Property Name="Source[1].properties[3].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[4].type" Type="Str">Show toolbar</Property>
+				<Property Name="Source[1].properties[4].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[5].type" Type="Str">Show Abort button</Property>
+				<Property Name="Source[1].properties[5].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[6].type" Type="Str">Window run-time position</Property>
+				<Property Name="Source[1].properties[6].value" Type="Str">Maximized</Property>
+				<Property Name="Source[1].propertiesCount" Type="Int">7</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
@@ -131,7 +147,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 </Property>
 				<Property Name="TgtF_productName" Type="Str">Thermal Tape Controller</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F6EFAABF-2392-41AA-BA99-8DB433888AEB}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">thermal-tape-controller-app.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">thermal-tape-controller.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
