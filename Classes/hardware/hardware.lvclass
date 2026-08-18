@@ -38,6 +38,14 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 	</Item>
+	<Item Name="get temps.vi" Type="VI" URL="../get temps.vi">
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.InvokeUsage" Type="UInt">4</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 	<Item Name="init.vi" Type="VI" URL="../init.vi">
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -52,7 +60,7 @@
 		<Property Name="NI.ClassItem.InvokeUsage" Type="UInt">4</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="read config.vi" Type="VI" URL="../read config.vi">
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -68,7 +76,7 @@
 		<Property Name="NI.ClassItem.InvokeUsage" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 	</Item>
 	<Item Name="write all relays.vi" Type="VI" URL="../write all relays.vi">
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
